@@ -4,6 +4,8 @@ I'm not planning on theming every emulator icon out there since there's way too 
 
 Feel free to modify and add your own! This can be done by tinting imgs\bottombar.png, imgs\topbar.png and the background image
 
+<img src="https://i.imgur.com/cj4mXX3.png" title="source: imgur.com" />
+
 Credits: 
 The flat white icons were taken from https://github.com/m1024x/retrogame-skin-pack
 Theme base is the Default skin from Gmenu2x
