@@ -13,7 +13,7 @@ Copy the skin folders to /media/data/local/home/.gmenu2x/skins
 # Credits: 
 The flat white icons were taken from https://github.com/m1024x/retrogame-skin-pack
 
-Some of the icons are made by by Freepik from www.flaticon.com
+Some of the icons are made by Freepik from www.flaticon.com
 
 The rest was created by me
 
