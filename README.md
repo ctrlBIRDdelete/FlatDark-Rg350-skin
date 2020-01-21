@@ -10,6 +10,10 @@ Feel free to modify and add your own colors! This can be done by tinting imgs\bo
 
 Copy the skin folders to /media/data/local/home/.gmenu2x/skins
 
+# Changelog:
+
+21.01.2020 - Added two more colors inspired by default console shells + few wallpapers which can be changed independently (clear, clearbright, cleardark)
+
 # Credits: 
 The flat white icons were taken from https://github.com/m1024x/retrogame-skin-pack
 
